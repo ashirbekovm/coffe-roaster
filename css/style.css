@@ -1,0 +1,68 @@
+.nav-roaster {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.coffe{
+    width: 236px;
+    height: 26px;
+    margin-left: 80px;
+}
+.home-list{
+    display: flex;
+    list-style: none;
+    margin-right: 80px;
+}
+.about {
+    background-image: url("../images/Group 7.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    width: 90%;
+    height: 450px;
+    color: white;
+}
+
+h1 {
+    padding-top: 137px;
+    padding-left: 85px;
+}
+p {
+    padding-left: 85px;
+}
+.commitment {
+    width: 1110px;
+    height: 520px;
+    margin-left: 165px;
+    margin-top: 168px;
+}
+.quality {
+    width: 1280px;
+    height: 562px;
+    margin-left: 80px;
+    margin-top: 168px;
+}
+h3 {
+    margin-top: 168px;
+    margin-left: 165px;
+    color: gray;
+}
+.kindom-one {
+    width: 40.84px;
+    height: 49.07px;
+    margin-top: 72px;
+    margin-left: 166.33px;
+
+}
+h2 {
+    margin-left: 165px;
+}
+.kindom-two {
+    margin-left: 85px;
+}
+.plan {
+    margin-left: 80px;
+    width: 1280px;
+    height: 208px;
+    margin-top: 168px;
+}
